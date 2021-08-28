@@ -10,3 +10,5 @@ Using above data, the project took a close look at the public bike sharing situa
 4. Bike trip duration is not associated with time of the year.
 
 The project code mainly uses pandas for the data exploration and analysis, with dython used for the association between a categorical variable and a continuous variable.
+The blog post could be found:
+https://summer-ericas.wixsite.com/website-1/post/public-bike-sharing-in-toronto
