@@ -7,13 +7,13 @@ Motivation: the project took a close look at the public bike sharing situation i
 4. Bike trip duration is not associated with time of the year.
 
 Libraries used:
--Pandas
--Datetime
--Dython
+1. Pandas
+2. Datetime
+3. Dython
 
 Files in the repository:
--Jupyter Notebook BikeToronto
--README.md
+1. Jupyter Notebook BikeToronto
+2. README.md
 
 The blog post could be found:
 https://summer-ericas.wixsite.com/website-1/post/public-bike-sharing-in-toronto
